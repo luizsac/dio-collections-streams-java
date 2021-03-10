@@ -2,3 +2,9 @@ one/digitalinnovation/list/ListaPrograma.java
  one.digitalinnovation.list.ListaPrograma
 one/digitalinnovation/fila/FilaPrograma.java
  one.digitalinnovation.fila.FilaPrograma
+one/digitalinnovation/set/HashSetPrograma.java
+ one.digitalinnovation.set.HashSetPrograma
+one/digitalinnovation/set/TreeSetPrograma.java
+ one.digitalinnovation.set.TreeSetPrograma
+one/digitalinnovation/set/LinkedHashSetPrograma.java
+ one.digitalinnovation.set.LinkedHashSetPrograma

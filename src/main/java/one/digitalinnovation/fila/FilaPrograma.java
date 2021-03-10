@@ -35,7 +35,7 @@ public class FilaPrograma {
             indexDaniel++;
         }
 
-        // Quando usada com Queue, LinkedList não possui método indexOf()
+        // Quando implementa Queue, LinkedList não possui método indexOf()
         System.out.println("Daniel está na posição " + indexDaniel);
         System.out.println("Fila: " + fila);
         System.out.println("Tamanho da fila: " + fila.size());
