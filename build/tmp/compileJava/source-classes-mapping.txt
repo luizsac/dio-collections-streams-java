@@ -8,3 +8,7 @@ one/digitalinnovation/set/TreeSetPrograma.java
  one.digitalinnovation.set.TreeSetPrograma
 one/digitalinnovation/set/LinkedHashSetPrograma.java
  one.digitalinnovation.set.LinkedHashSetPrograma
+one/digitalinnovation/map/HashMapPrograma.java
+ one.digitalinnovation.map.HashMapPrograma
+one/digitalinnovation/map/TreeMapPrograma.java
+ one.digitalinnovation.map.TreeMapPrograma
